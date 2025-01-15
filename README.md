@@ -26,7 +26,6 @@
 ```shell
 curl 'https://abogus.spoon123.workers.dev/' \
   --data-raw '{"url":"aid=6383&msToken=Y1dCVyPt10vSv0dNhFExofq6Q9pPcbDAdKY88e163MNaSTET_0AsYL7xmdtbcaBSS0Q_yTrwMRiOxR18MH5eOaHx6Fcn2pSdrASUd08_wiOMGzAnc6rsOF9F6Ed91z6H32mF1maT1dWDQBYiXO49nftpX-J-UV9Pwg%3D%3D&verifyFp=verify_m5waplio_rQkLsJdm_7dop_4b5y_BG4z_ba1jvNlzcJZe&fp=verify_m5waplio_O757fIuI_I3G6_4ez3_996z_okqRmhWe0qrQ","ua":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.37"}'
-
 ```
 #### python
 ```python
